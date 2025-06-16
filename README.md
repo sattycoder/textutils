@@ -32,5 +32,6 @@ A simple **React-based text utility app** that allows users to manipulate and an
 
 ## 📸 Screenshot
 
-![UI Screenshot](https://sattycoder.github.io/textutils)
+![image](https://github.com/user-attachments/assets/f0f746ee-e4a2-4c0a-be7b-72fc12cdabfb)
+
 
